@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\bin\Debug\Idades.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\bin\Debug\Idades.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\bin\Debug\Idades.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\obj\Debug\Idades.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\obj\Debug\Idades.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\obj\Debug\Idades.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\obj\Debug\Idades.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Idades\Idades\obj\Debug\Idades.pdb

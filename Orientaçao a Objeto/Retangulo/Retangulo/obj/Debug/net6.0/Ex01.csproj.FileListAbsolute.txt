@@ -1,0 +1,15 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\bin\Debug\net6.0\Ex01.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\bin\Debug\net6.0\Ex01.deps.json
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\bin\Debug\net6.0\Ex01.runtimeconfig.json
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\bin\Debug\net6.0\Ex01.dll
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\bin\Debug\net6.0\Ex01.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.dll
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\refint\Ex01.dll
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.4 Classes, atributos, metodos, membrosestaticos\Retangulo\Retangulo\obj\Debug\net6.0\ref\Ex01.dll

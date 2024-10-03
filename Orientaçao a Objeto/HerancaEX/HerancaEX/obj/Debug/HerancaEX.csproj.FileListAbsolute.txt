@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\bin\Debug\HerancaEX.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\bin\Debug\HerancaEX.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\bin\Debug\HerancaEX.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\obj\Debug\HerancaEX.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\obj\Debug\HerancaEX.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\obj\Debug\HerancaEX.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\obj\Debug\HerancaEX.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\HerancaEX\HerancaEX\obj\Debug\HerancaEX.pdb

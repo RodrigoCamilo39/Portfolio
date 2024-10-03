@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\bin\Debug\ExVetores.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\bin\Debug\ExVetores.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\bin\Debug\ExVetores.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\obj\Debug\ExVetores.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\obj\Debug\ExVetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\obj\Debug\ExVetores.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\obj\Debug\ExVetores.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExVetores\ExVetores\obj\Debug\ExVetores.pdb

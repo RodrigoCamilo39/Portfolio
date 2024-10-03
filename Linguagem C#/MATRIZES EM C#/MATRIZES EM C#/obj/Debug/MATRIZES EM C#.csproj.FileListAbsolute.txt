@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\bin\Debug\MATRIZES EM C#.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\bin\Debug\MATRIZES EM C#.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\bin\Debug\MATRIZES EM C#.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\obj\Debug\MATRIZES EM C#.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\obj\Debug\MATRIZES EM C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\obj\Debug\MATRIZES EM C#.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\obj\Debug\MATRIZES EM C#.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\MATRIZES EM C#\MATRIZES EM C#\obj\Debug\MATRIZES EM C#.pdb

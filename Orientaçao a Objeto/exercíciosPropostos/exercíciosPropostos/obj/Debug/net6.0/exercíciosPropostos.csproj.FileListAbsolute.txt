@@ -1,0 +1,15 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.AssemblyInfoInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.AssemblyInfo.cs
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\bin\Debug\net6.0\exercíciosPropostos.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\bin\Debug\net6.0\exercíciosPropostos.deps.json
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\bin\Debug\net6.0\exercíciosPropostos.runtimeconfig.json
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\bin\Debug\net6.0\exercíciosPropostos.dll
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\bin\Debug\net6.0\exercíciosPropostos.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.dll
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\refint\exercíciosPropostos.dll
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\exercíciosPropostos.genruntimeconfig.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.3\programas\exercíciosPropostos\exercíciosPropostos\obj\Debug\net6.0\ref\exercíciosPropostos.dll

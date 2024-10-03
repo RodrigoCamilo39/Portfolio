@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\bin\Debug\Products.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\bin\Debug\Products.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\bin\Debug\Products.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\obj\Debug\EX.1.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\obj\Debug\EX.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\obj\Debug\EX.1.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\obj\Debug\Products.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.10 Herança e polimorfismo\Exercicios\Products\Products\obj\Debug\Products.pdb

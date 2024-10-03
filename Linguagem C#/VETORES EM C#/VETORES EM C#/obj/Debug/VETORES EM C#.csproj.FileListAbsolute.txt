@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\obj\Debug\VETORES EM C#.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\obj\Debug\VETORES EM C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\obj\Debug\VETORES EM C#.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\bin\Debug\VETORES EM C#.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\bin\Debug\VETORES EM C#.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\bin\Debug\VETORES EM C#.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\obj\Debug\VETORES EM C#.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\VETORES EM C#\obj\Debug\VETORES EM C#.pdb

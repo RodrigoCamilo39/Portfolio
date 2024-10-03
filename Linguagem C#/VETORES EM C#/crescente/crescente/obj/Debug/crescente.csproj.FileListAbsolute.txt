@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\bin\Debug\crescente.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\bin\Debug\crescente.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\bin\Debug\crescente.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\obj\Debug\crescente.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\obj\Debug\crescente.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\obj\Debug\crescente.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\obj\Debug\crescente.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\crescente\crescente\obj\Debug\crescente.pdb

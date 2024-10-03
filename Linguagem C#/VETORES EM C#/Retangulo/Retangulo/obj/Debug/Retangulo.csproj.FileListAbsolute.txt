@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\bin\Debug\ExMatriz.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\bin\Debug\ExMatriz.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\bin\Debug\ExMatriz.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\obj\Debug\ExMatriz.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\obj\Debug\ExMatriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\obj\Debug\ExMatriz.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\obj\Debug\ExMatriz.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\Programação Orientada a Objetos\Cap.06\ExMatriz\ExMatriz\obj\Debug\ExMatriz.pdb

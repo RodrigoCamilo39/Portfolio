@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\bin\Debug\soma_vetores.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\bin\Debug\soma_vetores.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\bin\Debug\soma_vetores.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\obj\Debug\soma_vetores.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\obj\Debug\soma_vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\obj\Debug\soma_vetores.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\obj\Debug\soma_vetores.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\soma_vetores\soma_vetores\obj\Debug\soma_vetores.pdb

@@ -1,0 +1,8 @@
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe.config
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\bin\Debug\menor_de_tres.pdb
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.SuggestedBindingRedirects.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.exe
+C:\Users\digo-\OneDrive\Área de Trabalho\curso programaçao\C#\programas\VETORES EM C#\menor_de_tres\menor_de_tres\obj\Debug\menor_de_tres.pdb
